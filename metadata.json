@@ -1,0 +1,7 @@
+{
+  "name": "MycoCouture Studio",
+  "description": "A virtual dressing room using Generative AI to visualize sustainable Myco leather fashion on you.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
